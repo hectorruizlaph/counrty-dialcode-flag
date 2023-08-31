@@ -1,3 +1,3 @@
 # counrty-dialcode-flag
 
-json public api for conunries with a flag emoji and dial code
+public json api for conuntries with a flag emoji and dial code
